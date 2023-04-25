@@ -10,15 +10,15 @@ Proyecto de Creación Multimedia y Periodismo Multiplataforma Máster de Nuevos 
 
 **Autores:** Laura Lorca Alcaraz, Eduardo Quesada Barnés y José Francisco Rodríguez Muñoz.
 
-**Resumen:** 
+**Resumen:** El diario de Sophie narra la historia de nuestra protagonista Sophie, una chica introvertida y solitaria. No es culpa suya, pues ha sufrido una terrible infancia y adolescencia. Esta serie de problemas que sufrió, y que pronto conocerás, son más comunes de lo que pensamos. Sin embargo, la mayoría de chicos suelen tener a alguien con quien hablar, que les aconseja de la mejor manera para solucionarlo y no ahogarse aún más en ese pozo. Y, ese pasado oscuro, la ha acabado llevando al peor de los futuros.
 
 **Logotipo:**
 
-**Slogan:** 
+**Slogan:¿El destino está escrito o puedes cambiarlo?** 
 
-**Hashtag:**
+**Hashtag:#diariodesophie**
 
-**Licencia:**
+**Licencia:CC BY-NC**
 
 **Medios:**
 
@@ -30,7 +30,7 @@ Proyecto de Creación Multimedia y Periodismo Multiplataforma Máster de Nuevos 
 
 ## Metodología
 
-**Metodología de desarrollo:**
+**Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)**
 
 ## Etapa 1: Ideación de proyecto
 
