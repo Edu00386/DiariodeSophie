@@ -14,11 +14,11 @@ Proyecto de Creación Multimedia y Periodismo Multiplataforma Máster de Nuevos 
 
 **Logotipo:**
 
-**Slogan:¿El destino está escrito o puedes cambiarlo?** 
+**Slogan: ¿El destino está escrito o puedes cambiarlo?** 
 
-**Hashtag:#diariodesophie**
+**Hashtag: #diariodesophie**
 
-**Licencia:CC BY-NC**
+**Licencia: CC BY-NC**
 
 **Medios:**
 
@@ -34,8 +34,9 @@ Proyecto de Creación Multimedia y Periodismo Multiplataforma Máster de Nuevos 
 
 ## Etapa 1: Ideación de proyecto
 
-Actividades realizadas mediante ¿Trello, Milanote?
-Link
+Actividades realizadas mediante las herramientas Milanote y Trello.
+Link Milanote: https://app.milanote.com/1PCumi1gduk1a1/4-el-diario-de-sophie?p=fVCzKgTw2WW
+Link Trello: https://trello.com/c/FY9EkwyU/11-diario-de-sophie
 
 **Investigación de campo**
 
