@@ -78,3 +78,9 @@ En el prototipado de Protopie queremos dar una sensación como si fuera un cuent
 Las técnicas de evaluación utilizadas en nuestro proyecto, bien podrían ser test que evaluen el grado de satisfacción del usuario al jugar o visualizar el proyecto, las métricas de las redes sociales si las creamos y el número de visitas o descargas de nuestro proyecto, así como los comentarios hechos en las diferentes aplicaciones a modo de feedback sobre nuestro proyecto.
 
 ## Conclusiones y Trabajo Futuro
+
+En el futuro con mas ideación y tiempo se pueden llevar a cabo muchas mejoras dentro del proyecto con otras herramientas, como la creación de una página web con la compra de un dominio, definiendo un estilo con un código de programación, donde por ejemplo pueda estar incrustado el diario y se pueda abrir con scrolling e investigar su contenido y la historia.
+
+Aparte de distribuir el contenido en una aplicación para móvil, se podría hacer una experiencia totalmente inmersiva a través de unas gafas de realidad virtual, donde al colocárselas el usuario podrá ser Sofía en una de las páginas de su diario, con el escenario que corresponda. El usuario podrá moverse libremente por el contenido implementado e interactuar con los demás personajes y entorno para la toma de decisiones del diario de la protagonista. Las repercusiones del jugador lo llevaran de un lado a otro hasta uno de los dos finales donde conocerá el desenlace de la protagonista.
+En un futuro también se puede usar está experiencia para incluirla en terapias de ayuda psicológica hacia otras personas, con el objetivo de fomentar la participación del individuo que está siendo atendido.
+Con dinero y conocimientos se puede crear un proyecto con esta historia que concience a los jóvenes a buscar ayuda si es necesaria, a tomar sus propias decisiones y a construir relaciones sólidas y duraderas con familiares, amigos y pareja.
