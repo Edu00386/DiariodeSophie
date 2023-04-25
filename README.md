@@ -14,6 +14,8 @@ Proyecto de Creación Multimedia y Periodismo Multiplataforma Máster de Nuevos 
 
 **Logotipo:**
 
+[![IMG-4352.png](https://i.postimg.cc/ZRk8vppg/IMG-4352.png)](https://postimg.cc/McDMhcsb)
+
 **Slogan: ¿El destino está escrito o puedes cambiarlo?** 
 
 **Hashtag: #diariodesophie**
