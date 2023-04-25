@@ -63,4 +63,14 @@ La narración se efectuará por medio de diferentes herramientas como Arcweave, 
 
 ## Etapa 2: Prototipar / productos
 
-- JD
+Para prototipar se han utilizado las herramientas de Arcweave y Protopie. Las imagenes extraídas para prototipar el producto, algunas son imagenes libre de licencia sacadas de la página de Pexels, mientras que otras se han creado con diferentes herramientas como Adobe Photosop o Adobe Illustrator para mostrar el prototipo del producto.
+
+Link Arcweave: https://arcweave.com/app/project/qMEvbJRE8Z/play
+
+Link Protopie:
+
+[![IMG-4337.jpg](https://i.postimg.cc/0NFMFHm8/IMG-4337.jpg)](https://postimg.cc/wt5js20P)
+
+En el prototipado de Protopie queremos dar una sensación como si fuera un cuento a través de ilustraciones y dibujos que reflejen situaciones del diario de la protagonista, mientras que el usuario puede interactuar con los diferentes botones para avanzar hacia un lado u otro del diario. En Arcweave pasa algo parecido con la narración, pero las imagenes son de stock. En Arcweave se presenta la historia y los personajes y se avanza hacia el diario a través de botones interactivos. Una vez en el diario hay que ir por orden de páginas, pero se puede mirar un hecho malo del pasado y como hubiera sido su hecho alternativo con un final feliz. El final se alcanza al llegar a la página 100 de unas cuantas, se puede saber como ha sido su final, su presente, además de saber como pudo ser su final feliz alternativo, su presente ideal. La historia termina con una breve pregunta de reflexión.
+
+## Etapa 3: Técnicas de Evaluación Utilizadas
