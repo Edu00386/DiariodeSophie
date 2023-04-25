@@ -50,7 +50,7 @@ Sabíamos que la historia tenía que tener un diario donde el/la protagonista co
 - ...
 
 **Necesidad/Oportunidad**
-
+Los problemas personales de cada individuo es una realidad presente en la vida. Muchas veces al no construir una infancia feliz y una relación estable y sólida con tu familia puede traer consecuencias, como el aumento de problemas y carencias durante las etapas de la adolescencia y esta es una etapa clave en el desarrollo de una persona. Si los problemas no hacen más que aumentar, el individuo que los sufre se ve incapaz de resolverlos sin ayuda y puede incurrir en problemas más graves como el abandono de los estudios, de la familia, el coqueteo con drogas u otras sustancias como el alcohol e incluso pueden provocar el suicidio de una persona que no ha podido resolver todos sus problemas construyendo una base y estable con sus familiares, amigos, pareja y ella o él mismo. Nuestra oportunidad o necesidad es la de dar visibilidad a los problemas personales de una persona.
 ...
 
 **Motivación de la propuesta:**
