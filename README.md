@@ -58,9 +58,9 @@ Nosotros creemos que nuestro proyecto es importante, no quizás porque es una hi
 El público objetivo serían personas de edades comprendidas entre los 10 años y los 24 años. Va dirigido a un público jóven con el objetivo de que nuestro proyecto conciencie a las mentes jóvenes a tratar sus problemas personales y a construir una relación sólida y mutua con cualquier persona. También enseña a tener una vida digna y plena, aunque quizás no siempre sea el objetivo más eficaz.
 
 **Estilo de narración:**
-
+La narración se efectuará por medio de diferentes herramientas como Arcweave, para narraciones interactivas como si se tratase de un blog donde puedes elegir y Protopie como teaser de la historia para un formato móvil. La navegación será muy sencilla e intuitiva para que el usuario pueda navegar tranquilamente a través de la narración.
 ...
 
-##Etapa 2: Prototipar / productos
+## Etapa 2: Prototipar / productos
 
 - JD
