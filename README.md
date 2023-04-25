@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia y Periodismo Multiplataforma Máster de Nuevos 
 
 **Logotipo:**
 
-[![IMG-4352.png](https://i.postimg.cc/ZRk8vppg/IMG-4352.png)](https://postimg.cc/McDMhcsb)
+[![IMG-4352-00000.png](https://i.postimg.cc/DwFT2MS4/IMG-4352-00000.png)](https://postimg.cc/QH6PmSkj)
 
 **Slogan: ¿El destino está escrito o puedes cambiarlo?** 
 
