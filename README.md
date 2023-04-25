@@ -53,12 +53,12 @@ Los problemas personales de cada individuo es una realidad presente en la vida. 
 ...
 
 **Motivación de la propuesta:**
+Nosotros creemos que nuestro proyecto es importante, no quizás porque es una historia de ficción, alegre o graciosa y con un final que acaba bien, sino porque es una historia que se acerca mucho a la realidad, pero no deja de tener algo de ficción en ella. Nuestra motivación es contar una historia que se asemeje a la realidad, que sea intensa en cuanto a dramas y problemas, pero dando una visión de que una vida sencilla y resuelta y feliz tampoco puede ser una vida ideal, con la moraleja siempre de disfrutar del momento, sea bueno o malo y aprender de los errores, dejando apartado todo el pasado que has vivido y como puede repercutir en el futuro. Es una historia que acerca la realidad al presente.
 
 ...
 
 **Personas/Usuarios:**
-
-El público objetivo serían personas de edades comprendidas entre
+El público objetivo serían personas de edades comprendidas entre los 10 años y los 24 años. Va dirigido a un público jóven con el objetivo de que nuestro proyecto conciencie a las mentes jóvenes a tratar sus problemas personales y a construir una relación sólida y mutua con cualquier persona. También enseña a tener una vida digna y plena, aunque quizás no siempre sea el objetivo más eficaz.
 
 **Estilo de narración:**
 
