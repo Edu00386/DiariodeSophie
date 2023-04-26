@@ -67,7 +67,7 @@ Para prototipar se han utilizado las herramientas de Arcweave y Protopie. Las im
 
 Link Arcweave: https://arcweave.com/app/project/qMEvbJRE8Z/play
 
-Link Protopie:
+Link Protopie: https://cloud.protopie.io/p/305575db8df21edd34d086f9
 
 [![IMG-4337.jpg](https://i.postimg.cc/0NFMFHm8/IMG-4337.jpg)](https://postimg.cc/wt5js20P)
 
